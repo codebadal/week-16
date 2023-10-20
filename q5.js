@@ -7,3 +7,6 @@ if (regEx.test(URL) === true) {
 } else {
     console.log("invailid url");
 }
+
+// output
+// vaillid url

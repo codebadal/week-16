@@ -10,3 +10,6 @@ if (linkedinRegEx.test(url)=== true) {
     console.log(`${url} is invaild`);
 
 }
+
+// output
+// https://www.linkedin.com/in/badal-45a24/ is vaild

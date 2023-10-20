@@ -8,3 +8,8 @@ setTimeout(function () {
     let reverse = revString(input);
     console.log("reverse string is here : " + reverse);
 },2000)
+
+
+
+// output
+// reverse string is here : nohj si eman ym

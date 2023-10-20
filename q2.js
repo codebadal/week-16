@@ -16,3 +16,10 @@ function displyRandomNo(timeCount) {
 }
 
 displyRandomNo(3)
+
+// output
+// your random number disply in 3
+// 3 seconds remaning
+// 2 seconds remaning
+// 1 seconds remaning
+// your number - 0
